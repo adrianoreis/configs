@@ -1,7 +1,6 @@
 configs
 =======
 
-Some useful configurations on Ubuntu
 
 **eclipse.ini** 
 * vmargs
