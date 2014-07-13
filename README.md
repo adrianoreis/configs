@@ -7,7 +7,7 @@ configs
 http://www.oracle.com/technetwork/java/javase/tech/vmoptions-jsp-140102.html
 
 
-**Eclipse application launcher Ubuntu Unity (Ubuntu 13.10)**
+**Eclipse 3.8 application launcher Ubuntu Unity (Ubuntu 14.04)**
 
 
 1. Create eclipse.desktop under ~/.local/share/applications
